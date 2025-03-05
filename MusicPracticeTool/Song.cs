@@ -19,22 +19,21 @@ namespace MusicPracticeTool
 
         public int PageNumber { get; set; }
 
+        public int SongNumber { get; set; }
+
         public Song(string title, string location, int pageNumber, string level)
         {
             Title = title;
             Location = location;
             Level = level;
             PageNumber = pageNumber;
-        }
-
-        public string ToString(int num)
-        {
-            return new string(num + " - " + Title + " - " + Location + " - " + PageNumber + " - " + Level);
+            PracticeTool.SongAmount++;
+            SongNumber = PracticeTool.SongAmount;
         }
 
         public override string ToString()
         {
-            return new string(Title + " - " + Location + " - " + PageNumber + " - " + Level);
+            return new string(SongNumber + " - " + Title + " - " + Location + " - " + PageNumber + " - " + Level);
         }
     }
 }
