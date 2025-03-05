@@ -1,0 +1,14 @@
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\bin\Debug\net7.0\MusicPracticeTool.exe
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\bin\Debug\net7.0\MusicPracticeTool.deps.json
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\bin\Debug\net7.0\MusicPracticeTool.runtimeconfig.json
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\bin\Debug\net7.0\MusicPracticeTool.dll
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\bin\Debug\net7.0\MusicPracticeTool.pdb
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\obj\Debug\net7.0\MusicPracticeTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\obj\Debug\net7.0\MusicPracticeTool.AssemblyInfoInputs.cache
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\obj\Debug\net7.0\MusicPracticeTool.AssemblyInfo.cs
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\obj\Debug\net7.0\MusicPracticeTool.csproj.CoreCompileInputs.cache
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\obj\Debug\net7.0\MusicPracticeTool.dll
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\obj\Debug\net7.0\refint\MusicPracticeTool.dll
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\obj\Debug\net7.0\MusicPracticeTool.pdb
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\obj\Debug\net7.0\MusicPracticeTool.genruntimeconfig.cache
+C:\Users\Devan\source\repos\MusicPracticeTool\MusicPracticeTool\obj\Debug\net7.0\ref\MusicPracticeTool.dll
